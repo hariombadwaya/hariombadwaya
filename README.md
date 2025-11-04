@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-📍 Based in **Katni, Madhya Pradesh, India**  
+📍 Based in **Indore, Madhya Pradesh, India**  
 💻 **Full-Stack JavaScript Developer** with a strong focus on the **MERN stack** — MongoDB · Express.js · React.js · Node.js  
 🎯 Deep understanding of **Object-Oriented Programming (OOP)**, **Database Management Systems (DBMS)** & **Data Structures & Algorithms (DSA)**  
 🎨 Passionate about building **scalable web applications**, crafting **design systems**, and developing **reusable UI component libraries** for seamless user experiences.  
@@ -24,7 +24,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jagmohan-rai1/">
+  <a href="www.linkedin.com/in/hariombadwaya">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://jagmohan123.github.io/New-PortFolio/">
