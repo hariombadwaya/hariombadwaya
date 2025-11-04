@@ -88,19 +88,18 @@
 ---
 
 #### 🏠 Hotel Booking 
-[![Repo](https://img.shields.io/badge/GitHub-Shopping24-181717?style=for-the-badge&logo=github)](https://github.com/hariombadwaya/hotel-booking)
+[![Repo](https://img.shields.io/badge/GitHub-HotelBooking-181717?style=for-the-badge&logo=github)](https://github.com/hariombadwaya/hotel-booking)
 [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](http://hotel-bookingss.netlify.app)
 
-A complete **e-commerce web application** where users can browse products, add to cart, and place orders.
+A complete Hotel Booking System built using modern web technologies, where users can explore hotels, check room availability, and book stays seamlessly. Admins can manage hotels, bookings, and user data efficiently.
 
 - 🌟 **Key Features:**
-  - Full **product catalog** with categories & search
   - **User authentication & profile management**
-  - **Shopping cart & checkout** with secure payment integration
-  - **Admin dashboard** for product & order management
+  - **Hotel Management (Admin Panel)** Admin can add, update, or remove hotel listings.
+  - **Availability Check** – Users can check room availability before booking
   - Responsive design for desktop & mobile
 
-- 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · Redux · TailwindCSS · JWT Authentication
+- 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB  · TailwindCSS · JWT Authentication
 
 ---
 
