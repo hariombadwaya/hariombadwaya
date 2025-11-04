@@ -30,7 +30,7 @@
   <a href="https://jagmohan123.github.io/New-PortFolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:jagmohanrai082@gmail.com">
+  <a href="mailto:hariombadvaya8002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
