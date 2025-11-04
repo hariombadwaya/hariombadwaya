@@ -24,7 +24,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/hariombadwaya">
+  <a href="https://www.linkedin.com/in/hariombadwaya">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://jagmohan123.github.io/New-PortFolio/">
