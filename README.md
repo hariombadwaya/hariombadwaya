@@ -37,23 +37,12 @@
 
 ---
 
-### 💼 Work Experience
-
-🟢 **Full Stack Trainer** @ Dr. Reddy’s Foundation  
-🔵 **Technical Trainer** @ MGI  
-🔵 **Member Technical** @ ADP Pvt. Ltd.  
-🔴 **Project Engineer Intern** @ Wipro Pvt. Ltd.  
-🔴 **Graduate Engineer Trainee** @ HCL Pvt. Ltd.
-
----
-
 ## 🧰 Tech Toolbox
 
 ### 🏗️ Core Computer Science
 <p>
   <img src="https://img.shields.io/badge/Object%20Oriented%20Programming%20(OOP)-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database%20Management%20Systems%20(DBMS)-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms%20(DSA)-green?style=for-the-badge" />
+
 </p>
 
 ### 👨‍💻 Languages
