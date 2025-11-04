@@ -79,7 +79,6 @@
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ---
@@ -88,8 +87,8 @@
 
 ---
 
-#### 🛒 Shopping24 (E-Commerce Platform)
-[![Repo](https://img.shields.io/badge/GitHub-Shopping24-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/EcomerceFrontend)
+#### Hotel Booking 
+[![Repo](https://img.shields.io/badge/GitHub-Shopping24-181717?style=for-the-badge&logo=github)](https://github.com/hariombadwaya/hotel-booking)
 [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://shoping24k.netlify.app/)
 
 A complete **e-commerce web application** where users can browse products, add to cart, and place orders.
