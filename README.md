@@ -87,7 +87,7 @@
 
 ---
 
-#### Hotel Booking 
+#### 🏠 Hotel Booking 
 [![Repo](https://img.shields.io/badge/GitHub-Shopping24-181717?style=for-the-badge&logo=github)](https://github.com/hariombadwaya/hotel-booking)
 [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](http://hotel-bookingss.netlify.app)
 
